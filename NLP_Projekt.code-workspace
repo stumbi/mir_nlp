@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "mir_nlp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
