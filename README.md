@@ -7,4 +7,4 @@ f1 Score berechnen\\
 compute metrics \\
 kommentieren und aufräumen \\
 vergleich zu GPT \\
-
+Label weights \\
