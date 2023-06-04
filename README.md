@@ -2,5 +2,9 @@
 NLP Projekt von Laura und Nils 
 
 
-Training Arguments
-f1 Score
+Training Arguments optimieren\\
+f1 Score berechnen\\
+compute metrics \\
+kommentieren und aufräumen \\
+vergleich zu GPT \\
+
